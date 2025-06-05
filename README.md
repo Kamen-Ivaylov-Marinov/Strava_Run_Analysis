@@ -2,27 +2,26 @@
 
 This project analyzes running performance data collected from Strava using statistical and mathematical techniques.
 
-## Dataset
-The dataset (`filtered_runs.xlsx`) contains recorded runs including:
-- Date
-- Distance
-- Time
-- Calculated average speed
+It aims to evaluate whether performance has improved over time, identify trends, and apply hypothesis testing to validate training effects.
 
-## Analysis
-Key statistical techniques used:
-- Descriptive statistics (mean, median, IQR)
-- Boxplots and trend lines
-- Correlation analysis
+
+## Dataset
+
+- File: `filtered_runs.xlsx`
+- Fields include: Date, Distance, Duration, Calculated Average Speed
+
+## Analysis Highlights
+
+- Descriptive statistics (mean, median, standard deviation)
+- Boxplots and distribution analysis
+- Speed trends over time
 - Outlier detection using IQR
-- Hypothesis testing (Welch’s t-test)
+- Pearson correlation (distance vs speed)
+- Welch's t-test (2023 vs 2024 comparison)
 
 ## Notebook
-The full analysis is available in [`Strava_Final_Report.ipynb`](notebooks/Strava_Final_Report.ipynb), which walks through:
-- Speed progression by year and month
-- Speed distributions
-- Endurance vs. speed tradeoff
-- Statistically significant improvements across training blocks
+
+The complete analysis is in [`notebooks/Strava_Final_Report.ipynb`](notebooks/Strava_Final_Report.ipynb)
 
 ## References
 See the final section of the notebook for academic references behind each formula and method used.
