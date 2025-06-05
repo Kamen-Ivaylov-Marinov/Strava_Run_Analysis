@@ -32,9 +32,11 @@ See the final section of the notebook for academic references behind each formul
 - Jupyter Notebook
 - pandas
 - matplotlib
+- seaborn
+- scipy
 - numpy
 - openpyxl
-- 
+  
 ## How to Run
 1. Clone the repository  
 2. Open the Jupyter notebook from the `notebooks/` folder
