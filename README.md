@@ -45,7 +45,7 @@ See the final section of the notebook for academic references behind each formul
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Kamen-Ivaylov-Marinov/Srava_Runs.git
+   git clone https://github.com/Kamen-Ivaylov-Marinov/Strava_Run_Analysis.git
    cd Srava_Runs
 
 2. **Execute the script:**
@@ -65,7 +65,7 @@ See the final section of the notebook for academic references behind each formul
 
 1. **Clone the repository:**
    ```cmd
-   git clone https://github.com/Kamen-Ivaylov-Marinov/Srava_Runs.git
+   git clone https://github.com/Kamen-Ivaylov-Marinov/Strava_Run_Analysis.git
    cd Srava_Runs\setup
    
 2. **Run the script:**
