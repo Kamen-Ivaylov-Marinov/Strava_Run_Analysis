@@ -38,16 +38,8 @@ See the final section of the notebook for academic references behind each formul
 ## How to Run
 1. Clone the repository  
 2. Open the Jupyter notebook from the `notebooks/` folder
-Strava_Run_Analysis/
-├── data/
-│   └── filtered_runs.xlsx
-├── notebooks/
-│   └── Strava_Final_Report.ipynb
-├── requirements.txt
-├── README.md
-└── .gitignore
-4. Make sure you have `pandas`, `matplotlib`, `scipy`, and `seaborn` installed  
-5. Execute cells to reproduce the analysis
+3. Make sure you have `pandas`, `matplotlib`, `scipy`, and `seaborn` installed  
+4. Execute cells to reproduce the analysis
 
 ### Setup Mac/Linux:
 
